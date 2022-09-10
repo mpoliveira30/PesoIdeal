@@ -15,7 +15,7 @@ public class Pesoideal {
         
         
         float ph = (float) (72.7*h) - 58;
-        float pm = (float) ((62.1*h) - 44.7);
+        float pm = (float) (62.1*h) - 44.7;
         
         
         ph1 = Float.parseFloat
